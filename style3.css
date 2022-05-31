@@ -1,0 +1,17 @@
+body {
+  background-color: aquamarine;
+}
+
+.bouger:hover {
+  animation: animation-plante 0.1s infinite;
+}
+
+@keyframes animation-plante {
+  50% {
+    transform: rotate(4deg);
+  }
+
+  100% {
+    transform: rotate(4deg);
+  }
+}

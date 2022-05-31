@@ -1,0 +1,14 @@
+.div1 {
+  background-image: url(/img/space-3197611_1280.webp);
+  width: 100vw;
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titre1 {
+  font-size: 800%;
+  color: rgb(6, 122, 33);
+}
